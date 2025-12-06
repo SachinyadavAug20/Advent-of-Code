@@ -42,5 +42,4 @@ int main() {
     rotate(p, r);  }
 
     cout<<no_of_zeros;
-
 }
