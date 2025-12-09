@@ -99,7 +99,6 @@ int main() {
         }
         // cout << grid[i][j];
       }
-      cout << endl;
     }
         if(no_of_removed==0){
             break;
