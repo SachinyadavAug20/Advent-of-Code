@@ -2,8 +2,6 @@
 using namespace std;
 
 int main() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
 
     ifstream input("input.txt");
     if (!input) {
@@ -108,4 +106,5 @@ int main() {
     cout << "grand total : " << grand << "\n";
     return 0;
 }
+//This soln i got logic from reddit and it overcomes all problems of parsing the input k
 
