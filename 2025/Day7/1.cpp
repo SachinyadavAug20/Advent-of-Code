@@ -146,6 +146,7 @@
 // a total of 21 times.
 //
 // Analyze your manifold diagram. How many times will the beam be split?
+//
 #include <algorithm>
 #include <fstream>
 #include <iostream>
